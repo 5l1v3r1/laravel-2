@@ -15,7 +15,7 @@ module requests
 ```
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/AnonRoz-Team/domain-to-ip
+$ git clone https://github.com/AnonRoz-Team/laravel
 $ cd laravel
   Target website with http or https
 $ python2 lrv.py list-web.txt
